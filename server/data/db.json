@@ -1,0 +1,116 @@
+{
+  "items": [
+    {
+      "name": "krabby patty",
+      "description": "makanan terenak di lautan",
+      "price": "9009",
+      "imgUrl": "https://i.pinimg.com/originals/f8/63/cd/f863cd50c189511ef161f8c6a525f3c7.jpg",
+      "authorId" : 3,
+      "categoryId" : 1
+    },
+    {
+      "name": "krabby patty",
+      "description": "makanan terenak di lautan",
+      "price": "9900",
+      "imgUrl": "https://asset.kompas.com/crops/zXWZBzgTKrJKznN0Ewr-71bND1I=/0x0:1000x667/750x500/data/photo/2021/08/24/61244287293af.jpg",
+      "authorId" : 3,
+      "categoryId" : 1
+    },
+    {
+      "name": "baso",
+      "description": "makanan terenak di daratan",
+      "price": "5500",
+      "imgUrl": "https://i.pinimg.com/originals/f8/63/cd/f863cd50c189511ef161f8c6a525f3c7.jpg",
+      "authorId" : 1,
+      "categoryId" : 1
+    },
+    {
+      "name": "bakmoi",
+      "description": "makanan terenak di daratan",
+      "price": "1553",
+      "imgUrl": "https://i.pinimg.com/originals/f8/63/cd/f863cd50c189511ef161f8c6a525f3c7.jpg",
+      "authorId" : 2,
+      "categoryId" : 3
+    },
+    {
+        "name": "klepon",
+        "description": "makanan terenak di udara",
+        "price": "7995",
+        "imgUrl": "https://i.pinimg.com/originals/f8/63/cd/f863cd50c189511ef161f8c6a525f3c7.jpg",
+        "authorId" : 2,
+        "categoryId" : 2
+      },
+      {
+        "name": "mi sedab",
+        "description": "makanan terenak di udara",
+        "price": "9533",
+        "imgUrl": "https://i.pinimg.com/originals/f8/63/cd/f863cd50c189511ef161f8c6a525f3c7.jpg",
+        "authorId" : 1,
+        "categoryId" : 2
+      },
+      {
+        "name": "batagorrr",
+        "description": "makanan terenak di udara",
+        "price": "99055",
+        "imgUrl": "https://i.pinimg.com/originals/f8/63/cd/f863cd50c189511ef161f8c6a525f3c7.jpg",
+        "authorId" : 3,
+        "categoryId" : 3
+
+      }
+  ],
+  "categories": [
+    {
+      "name": "sandwhich"
+    },
+    {
+      "name": "mie"
+    },
+    {
+      "name": "ayam"
+    }
+  ],
+  "ingredients": [
+    {
+      "itemId": 1,
+      "name": "tepung"
+    },
+    {
+      "itemId": 2,
+      "name": "daging"
+    },
+    {
+      "itemId": 3,
+      "name": "tahu"
+    },
+    {
+      "itemId": 3,
+      "name": "ayam"
+    }
+  ],
+  "users": [
+    {
+      "username": "Pak Kades",
+      "email": "test1@mail.com",
+      "password": "123456",
+      "phoneNumber" : "98099444",
+      "role" : "admin",
+      "address" : "Konoha"
+    },
+    {
+      "username": "Pak Bina",
+      "email": "test2@mail.com",
+      "password": "123456",
+      "phoneNumber" : "98098944",
+      "role" : "admin",
+      "address" : "Negara Api"
+    },
+    {
+      "username": "John",
+      "email": "test3@mail.com",
+      "password": "123456",
+      "phoneNumber" : "80989444",
+      "role" : "admin",
+      "address" : "Amegakure"
+    }
+  ]
+}
