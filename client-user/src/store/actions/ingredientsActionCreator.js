@@ -1,5 +1,5 @@
 import { INGREDIENTS_FETCH_SUCCESS } from "./actionTypes";
-let baseUrl = "https:/sulkhans-food-db.galangsakti.com/"
+let baseUrl = "https://sulkhans-db.galangsakti.shop/"
 
 export let ingredientsFetchSuccess = (payload) => {
   return {

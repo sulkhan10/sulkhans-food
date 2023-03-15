@@ -1,7 +1,5 @@
 import { USER_FETCH_SUCCESS } from "./actionTypes";
-// let baseUrl = "https:/sulkhans-food-db.galangsakti.com/"
-// let baseUrl = "https://18.210.13.117/"
-let baseUrl = "https://sulkhan10-production.up.railway.app/"
+let baseUrl = "https://sulkhans-db.galangsakti.shop/"
 
 
 export let fetchUsers = () => {
